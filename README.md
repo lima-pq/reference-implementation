@@ -1,2 +1,0 @@
-# reference-implementation
-Reference implementation
