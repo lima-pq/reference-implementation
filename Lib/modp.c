@@ -63,8 +63,8 @@ int exp_mod_q(modp_context_t* ctx, int base, int exp)
 /*
  * q, log_256 q
  */
-modp_context_t mod133121   = { 133121, 3 };
-modp_context_t mod184321   = { 184321, 3 };
+modp_context_t mod18433    = { 18433, 2 };
+modp_context_t mod40961    = { 40961, 2 };
 modp_context_t mod12521473 = { 12521473, 3 };
 modp_context_t mod48181249 = { 48181249, 4 };
 modp_context_t mod44802049 = { 44802049, 4 };
